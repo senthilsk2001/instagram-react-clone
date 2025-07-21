@@ -1,0 +1,262 @@
+{
+    "posts":[
+    {
+      "id": "1",
+      "user": {
+        "id": "101",
+        "username": "sunny_days",
+        "profile_pic": "src/assets/download (1).jpg"
+      },
+      "image":"src/assets/back1.jpg",
+      "caption": "Exploring the coast 🌊 #beachvibes",
+      "likes": 120,
+      "comments": [
+        { "user": "ocean_lover", "comment": "So beautiful!" },
+        { "user": "wave_rider", "comment": "Love the view 🌊" }
+      ]
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": "102",
+        "username": "mountain_hiker",
+        "profile_pic": "src/assets/images (6).jpg"
+      },
+      "image":"src/assets/back2.jpg",
+      "caption": "Top of the world! 🏔️ #hikingadventures",
+      "likes": 250,
+      "comments": [
+        { "user": "trail_blazer", "comment": "Wow, amazing shot!" },
+        { "user": "sky_view", "comment": "Goals 🙌" }
+      ]
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": "103",
+        "username": "foodie_forever",
+        "profile_pic": "src/assets/download (3).jpg"
+      },
+      "image":"src/assets/back3.jpg",
+      "caption": "This ramen is life 🍜 #foodporn",
+      "likes": 98,
+      "comments": [
+        { "user": "slurpy", "comment": "Need that recipe!" },
+        { "user": "chef_mode", "comment": "Drooling 🤤" }
+      ]
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": "104",
+        "username": "urban.snap",
+        "profile_pic": "src/assets/images (5).jpg"
+      },
+      "image":"src/assets/back4.jpg",
+      "caption": "City lights and late nights 🌃 #cityscape",
+      "likes": 312,
+      "comments": [
+        { "user": "street_shooter", "comment": "Perfect capture!" },
+        { "user": "night_owl", "comment": "City never sleeps 🔥" }
+      ]
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": "105",
+        "username": "catlover99",
+        "profile_pic": "src/assets/download (5).jpg"
+      },
+      "image":"src/assets/back5.jpg",
+      "caption": "Meet Mr. Whiskers 🐱 #catsofinstagram",
+      "likes": 412,
+      "comments": [
+        { "user": "meow_meow", "comment": "He’s adorable!" },
+        { "user": "furry_fan", "comment": "Too cute 😍" }
+      ]
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": "106",
+        "username": "fitness_journey",
+        "profile_pic": "src/assets/download (6).jpg"
+      },
+      "image":"src/assets/back6.jpg",
+      "caption": "Progress not perfection 💪 #fitlife",
+      "likes": 222,
+      "comments": [
+        { "user": "gym_rat", "comment": "Preach!" },
+        { "user": "healthy_vibes", "comment": "Motivated 💯" }
+      ]
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": "107",
+        "username": "travel_gal",
+        "profile_pic": "src/assets/download.jpg"
+      },
+      "image":"src/assets/back7.jpg",
+      "caption": "Paris never gets old 🇫🇷 #travelgram",
+      "likes": 510,
+      "comments": [
+        { "user": "jetsetter", "comment": "Take me with you!" },
+        { "user": "wanderlusting", "comment": "Bucket list 😍" }
+      ]
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": "108",
+        "username": "techgeek",
+        "profile_pic": "src/assets/images (1).jpg"
+      },
+      "image":"src/assets/back8.jpg",
+      "caption": "Unboxing the latest gadget 📱 #techlife",
+      "likes": 167,
+      "comments": [
+        { "user": "nerd_mode", "comment": "Which model?" },
+        { "user": "gadget_freak", "comment": "Looks slick!" }
+      ]
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": "109",
+        "username": "plantmom",
+        "profile_pic": "src/assets/images (2).jpg"
+      },
+      "image":"src/assets/back9.jpg",
+      "caption": "New leaf day! 🌿 #plantlove",
+      "likes": 311,
+      "comments": [
+        { "user": "green_thumb", "comment": "So lush!" },
+        { "user": "nature_vibes", "comment": "Plant goals 💚" }
+      ]
+    },
+    {
+      "id": "10",
+      "user": {
+        "id": "110",
+        "username": "artsy_amy",
+        "profile_pic": "src/assets/images (3).jpg"
+      },
+      "image":"src/assets/back10.jpg",
+      "caption": "Finished this watercolor piece today 🎨 #artlovers",
+      "likes": 430,
+      "comments": [
+        { "user": "canvas_queen", "comment": "Stunning work!" },
+        { "user": "color_addict", "comment": "Love your style 😍" }
+      ]
+    }
+  ],
+  "profile":{
+        "id": "101",
+        "username": "sunny_days",
+        "profile_pic": "src/assets/download (1).jpg"
+  },
+  "suggestions":[
+    {
+      "id": "103",
+      "username": "foodie_forever",
+      "profile_pic": "src/assets/download (3).jpg"
+    },
+    {
+      "id": "105",
+      "username": "catlover99",
+      "profile_pic": "src/assets/download (5).jpg"
+    },
+    {
+      "id": "108",
+      "username": "techgeek",
+      "profile_pic": "src/assets/images (1).jpg"
+    },{
+      "id": "110",
+      "username": "artsy_amy",
+      "profile_pic": "src/assets/images (3).jpg"
+    },
+    {
+      "id": "102",
+      "username": "mountain_hiker",
+      "profile_pic": "src/assets/images (6).jpg"
+    }
+  ],
+  "story":[
+    {
+      "id": "1",
+      "user": {
+        "id": "101",
+        "username": "sunny_days",
+        "profile_pic": "src/assets/download (1).jpg"
+      },
+      "image":"src/assets/back1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": "102",
+        "username": "mountain_hiker",
+        "profile_pic": "src/assets/images (6).jpg"
+      },
+      "image":"src/assets/back2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": "103",
+        "username": "foodie_forever",
+        "profile_pic": "src/assets/download (3).jpg"
+      },
+      "image":"src/assets/back3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": "104",
+        "username": "urban.snap",
+        "profile_pic": "src/assets/images (5).jpg"
+      },
+      "image":"src/assets/back4.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": "105",
+        "username": "catlover99",
+        "profile_pic": "src/assets/download (5).jpg"
+      },
+      "image":"src/assets/back5.jpg"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": "106",
+        "username": "fitness_journey",
+        "profile_pic": "src/assets/download (6).jpg"
+      },
+      "image":"src/assets/back6.jpg"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": "107",
+        "username": "travel_gal",
+        "profile_pic": "src/assets/download.jpg"
+      },
+      "image":"src/assets/back7.jpg",
+      "caption": "Paris never gets old 🇫🇷 #travelgram"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": "108",
+        "username": "techgeek",
+        "profile_pic": "src/assets/images (1).jpg"
+      },
+      "image":"src/assets/back8.jpg"
+    }    
+  ]
+}
+
+  
